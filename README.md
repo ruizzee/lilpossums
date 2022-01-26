@@ -23,7 +23,7 @@ p {
 <h1 style="color: red">Do not look at my Possum!!</h1>
 <p><b><u> Her name is Princess and she's shyyyy </u></b></p>
 
-<p id="changething"><i>Possums R' awesum</i></p>
+<p id="changething"><i>Possums R' awesums</i></p>
 
 <button type="button" onclick="document.getElementById('demo').style.color= '35
 px'">Click or die
