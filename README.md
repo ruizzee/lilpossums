@@ -32,7 +32,7 @@ px'">Click or die
 <p style="color: blue">Don't call animal control please</p>
 <!-- This possum is a communist -->
 
-<img src=https://ih1.redbubble.net/image.2152835674.9491/fposter,small,wall_texture,product,750x1000.jpg>
+<img src=https://ih1.redbubble.net/image.2152835674.9491/fposter,small,wall_texture,product,750x1000.jpg">
 
 </body>
 </html> 
